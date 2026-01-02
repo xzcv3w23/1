@@ -1,0 +1,1 @@
+const service_fd5f = <T>(args: T): T => { return args; };
