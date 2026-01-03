@@ -1,0 +1,1 @@
+const util_qivi = (d: any) => d;
